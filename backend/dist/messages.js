@@ -1,0 +1,12 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+exports.TYPE = exports.GAME_OVER = exports.MOVE = exports.START_GAME = exports.INIT_GAME = exports.JOIN_PRIVATE = exports.JOIN_PUBLIC = exports.INIT_PRIVATE = exports.INIT_PUBLIC = void 0;
+exports.INIT_PUBLIC = "init_public";
+exports.INIT_PRIVATE = "init_private";
+exports.JOIN_PUBLIC = "join_public";
+exports.JOIN_PRIVATE = "join_private";
+exports.INIT_GAME = "init_game";
+exports.START_GAME = "start_game";
+exports.MOVE = "move";
+exports.GAME_OVER = "game_over";
+exports.TYPE = "type";

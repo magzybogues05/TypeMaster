@@ -1,0 +1,9 @@
+export const INIT_PUBLIC="init_public";
+export const INIT_PRIVATE="init_private";
+export const JOIN_PUBLIC="join_public";
+export const JOIN_PRIVATE="join_private";
+export const INIT_GAME="init_game";
+export const START_GAME="start_game";
+export const MOVE="move";
+export const GAME_OVER="game_over";
+export const TYPE="type";
